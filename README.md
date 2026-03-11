@@ -1,4 +1,4 @@
-![SQC process](https://github.com/user-attachments/assets/58c82d70-e5ed-4dcd-871a-7b997e7f26eb)# Application of Statistical Quality Control (SQC) in Shoe Manufacturing – Data Analysis Project
+# Application of Statistical Quality Control (SQC) in Shoe Manufacturing – Data Analysis Project
 Analyzed shoe manufacturing quality data using Statistical Quality Control (SQC) techniques to evaluate production stability and identify major defect causes. Production data from 30 manufacturing groups were analyzed to study shoe length variation (continuous variable) and number of defective shoes per group (attribute variable). The study used statistical tools to monitor process stability, evaluate process capability, and identify root causes of defects in the manufacturing process.
 
 ## Technologies Used:
@@ -17,7 +17,7 @@ Shoe manufacturing processes often face defects such as stitching errors, sole d
 • Fishbone (Ishikawa) Diagram to determine root causes of defects
 
 ## Analysis:
-SQC tools such as X̄ Chart, R Chart, NP Chart, Pareto Chart, and Fishbone Diagram were applied to analyze production stability and defect patterns.
+SQC tools such as X̄ Chart, R Chart, np Chart, Pareto Chart, and Fishbone Diagram were applied to analyze production stability and defect patterns.
 • X̄ Chart & R Chart monitored average shoe length and showed the process mean & variability stability within samples.
 • np Chart tracked the number of defective shoes per production group which was controlled but can be reduced.
 • Pareto Chart identified major defects such as stitching defects, sole detachment, Glue marks.
