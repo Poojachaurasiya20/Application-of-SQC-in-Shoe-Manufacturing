@@ -26,9 +26,11 @@ SQC tools such as X̄ Chart, R Chart, np Chart, Pareto Chart, and Fishbone Diagr
 ## Outcome:
 The analysis helped identify major defect sources and process variation, enabling manufacturers to improve quality control, reduce defects, and enhance production efficiency.
 
-
 ## Datasets
 https://docs.google.com/spreadsheets/d/1vUsfXA8qfTIl1x-z4kCauuV40tHJutuh/edit?usp=sharing&ouid=110091192870745777902&rtpof=true&sd=true
+https://docs.google.com/spreadsheets/d/1-TemkkcrGDi6bRuV9ba26gZWXk7WJJDl/edit?usp=sharing&ouid=110091192870745777902&rtpof=true&sd=true
+https://docs.google.com/spreadsheets/d/1tVENOprjA4XPFj3CKRVaOd7u4jciZnct/edit?usp=sharing&ouid=110091192870745777902&rtpof=true&sd=true
+
 ## process
 <img width="1200" height="675" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/7a2c35ee-a0ba-4612-b1d0-598bec05ce16" />
 
